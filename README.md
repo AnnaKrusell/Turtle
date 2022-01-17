@@ -5,6 +5,8 @@ The plug-in will let you interact with the graph database (Resource Description 
 The database containing the room simulation ontology typology, the natural ventilation ontology and the daylight simulation ontology, 
 as well as the entered simulation results and geometries. The ontologies can be found [here](https://github.com/kmarburger/Simulation-Ontologies). 
 The database contains daylight simulations and natural ventilation simulations (CFD). 
+![all_icons_github](https://user-images.githubusercontent.com/54723439/149782596-f892a8df-7057-4b4d-96fa-6514bcd28923.png)
+
 
 ## Installation guide
 
